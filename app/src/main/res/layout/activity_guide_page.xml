@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/bgg"
+    tools:context="com.application.footballbetting.GuidePage">
+
+    <ImageView
+        android:id="@+id/navbar1"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/gradient"
+        android:src="@drawable/navar1"
+        android:scaleType="fitXY"/>
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textSize="30dp"
+        android:textStyle="normal|bold"
+        android:textColor="@color/white"
+        android:layout_marginHorizontal="15dp"
+        android:text="@string/guide_title" />
+
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/tv2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginTop="35dp"
+                android:background="@drawable/gradient"
+                android:text="@string/guide1"
+                android:textColor="@color/black"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv2"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginTop="15dp"
+                android:text="@string/guide1_desc"
+                android:textColor="@color/white"
+                android:textSize="15dp"
+                android:textStyle="bold|italic"/>
+
+            <TextView
+                android:id="@+id/tv4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv3"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginTop="30dp"
+                android:text="@string/guide2"
+                android:textColor="@color/black"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:background="@drawable/gradient"/>
+
+            <TextView
+                android:id="@+id/tv5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv4"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginTop="15dp"
+                android:text="@string/guide2_desc"
+                android:textColor="@color/white"
+                android:textSize="15dp"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/tv6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv5"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginTop="30dp"
+                android:text="@string/guide3"
+                android:textColor="@color/black"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:background="@drawable/gradient"/>
+
+            <TextView
+                android:id="@+id/tv7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv6"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginTop="15dp"
+                android:textSize="15dp"
+                android:text="@string/guide3_desc"
+                android:textColor="@color/white"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/tv8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv7"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginTop="30dp"
+                android:text="@string/guide4"
+                android:textColor="@color/black"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:background="@drawable/gradient"/>
+
+            <TextView
+                android:id="@+id/tv9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv8"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginTop="15dp"
+                android:textSize="15dp"
+                android:text="@string/guide4_desc"
+                android:textColor="@color/white"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/tv10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv9"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginTop="30dp"
+                android:text="@string/guide5"
+                android:textColor="@color/black"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:background="@drawable/gradient"/>
+
+            <TextView
+                android:id="@+id/tv11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv10"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginTop="15dp"
+                android:textSize="15dp"
+                android:text="@string/guide5_desc1"
+                android:textColor="@color/white"
+                android:textStyle="bold|italic"/>
+
+            <TextView
+                android:id="@+id/tv12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv11"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginTop="10dp"
+                android:text="@string/guide5_desc2"
+                android:textColor="@color/white"
+                android:textSize="15dp"
+                android:textStyle="bold|italic"/>
+
+            <Button
+                android:id="@+id/button"
+                android:layout_marginTop="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="BACK"
+                android:layout_below="@+id/tv12"
+                android:layout_centerInParent="true"
+                android:layout_marginBottom="5dp"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                app:backgroundTint="#FD6B1D"
+                android:textStyle="bold"/>
+
+        </RelativeLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="star" type="id" />
+    <item name="rotateButton" type="id" />
+    <item name="translateButton" type="id" />
+    <item name="scaleButton" type="id" />
+    <item name="fadeButton" type="id" />
+    <item name="colorizeButton" type="id" />
+    <item name="showerButton" type="id" />
+</resources>

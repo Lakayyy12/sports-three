@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.application.footballbetting.LeaguesFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ImageView
+        android:id="@+id/img2"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_margin="5dp"
+        android:adjustViewBounds="true"
+        android:background="@drawable/customborder3"
+        android:scaleType="fitXY"
+        android:src="@drawable/f2"
+        android:clickable="false"
+        android:outlineProvider="background"
+        app:shapeAppearanceOverlay="@style/roundimageview" />
+
+    <TextView
+    android:id="@+id/textView0"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="20dp"
+    android:layout_marginTop="15dp"
+    android:text="How to Succeed in Sports Betting in 2022"
+    android:textAlignment="center"
+    android:textColor="#63FB03"
+    android:textSize="30dp"
+    android:textStyle="bold" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tp1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="30dp"
+            android:background="#63FB03"
+            android:contentDescription="@string/clickable_text"
+            android:text="@string/tp1"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tpt01"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/tp1"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="15dp"
+            android:text="@string/tp01"
+            android:textColor="@color/white"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/tp2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tpt01"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="30dp"
+            android:background="#63FB03"
+            android:contentDescription="@string/clickable_text"
+            android:text="@string/tp2"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tpt02"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/tp2"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="15dp"
+            android:text="@string/tp02"
+            android:textColor="@color/white"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/tp3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tp3"
+            android:layout_below="@+id/tpt02"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:textColor="@color/black"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="30dp"
+            android:contentDescription="@string/clickable_text"
+            android:background="#63FB03"/>
+
+        <TextView
+            android:id="@+id/tpt03"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/tp3"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="15dp"
+            android:text="@string/tp03"
+            android:textColor="@color/white"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/tp4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tp4"
+            android:layout_below="@+id/tpt03"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:textColor="@color/black"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="30dp"
+            android:contentDescription="@string/clickable_text"
+            android:background="#63FB03"/>
+
+        <TextView
+            android:id="@+id/tpt04"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/tp4"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="15dp"
+            android:text="@string/tp04"
+            android:textColor="@color/white"
+            android:textSize="15dp"
+            android:layout_marginBottom="20dp"/>
+
+    </RelativeLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bgg"
+    tools:context="com.application.footballbetting.History">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/history_of_football_betting"
+            android:contentDescription="@string/history_title"
+            android:textStyle="bold|bold"
+            android:fontFamily="monospace"
+            android:textColor="#63FB03"
+            android:gravity="center"
+            android:layout_margin="15dp"
+            android:layout_marginTop="15dp"
+            android:textSize="25dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/history"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="15dp"
+            android:textSize="20dp"
+            android:textColor="#63FB03"
+            android:textStyle="italic|bold"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/history1"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="15dp"
+            android:textSize="20dp"
+            android:textColor="#63FB03"
+            android:textStyle="italic|bold"/>
+        
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="110dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="15dp"
+            android:text="BACK"
+            android:backgroundTint="#63FB03"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:textColor="@color/black"
+            android:contentDescription="@string/back_button"/>
+
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

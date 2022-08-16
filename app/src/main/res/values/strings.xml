@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Football 365 Betting Tips</string>
+    <string name="guide_title">A beginner guides to online betting and how to win.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="guide_titledesc">
+Playing casino games for the first time can be intimidating. When a novice enters a casino and takes in everything at once, the pressure is at its peak. However, if you follow some basic principles, you can make your first foray into gambling a success.</string>
+    <string name="guide1">The home has the advantage</string>
+    <string name="guide1_desc">A casino has a diverse selection of games. As a beginner, you should start with simple games and work your way up to more difficult ones. To begin, slot machine online games are the way to go. Consider whether you want to play games that need you to read instructions or simple games that allow you to take a more relaxed approach.</string>
+    <string name="guide2">Count on luck</string>
+    <string name="guide2_desc">In casino games, success is determined on chance rather than knowledge or talent. While there are strategies to improve your odds of winning, a player must always rely on luck to make money while playing casino games. If you have a lucky streak, you can put it to the test in the casino.</string>
+    <string name="guide3">Recognize the odds</string>
+    <string name="guide3_desc">Not all games provide the same odds for the same payouts. This knowledge will assist you decide how much money to gamble and how much risk to take</string>
+    <string name="guide4">Look into online tutorials</string>
+    <string name="guide4_desc">Look on Google to search tutorials on how to play online games. Because it is accesible.</string>
+    <string name="guide5">Understand when to call it quits</string>
+    <string name="guide5_desc1">Understand when to pay out, whether you have won or lost money. If you ever have the feeling that it is a good moment to cash out, it is probably because it is. Even if you are winning, hot streaks have a shelf life.</string>
+    <string name="guide5_desc2">Overall, whether a player is a seasoned veteran or a newcomer to casinos, they must be prudent with their money. It is beneficial to learn from mistakes, but it is always preferable to avoid committing them in the first place. Again, while certain games do have an element of skill, keep in mind that these games are based on luck and are meant to take in more money than they pay out.</string>
+
+    <string name="bgt1">1. Make the Odds Work in Your Favor</string>
+    <string name="bgt2">2. Gain VIP and High Roller Reward Points</string>
+    <string name="bgt3">3.Improve Your Odds of Becoming the Next Millionaire</string>
+    <string name="bgt4">4. Discover How to Beat the Casinos at Their Own Game</string>
+    <string name="bgt5">5. Spend less and have more fun.</string>
+    <string name="bgt6">6. Don not Believe in Superstitions</string>
+    <string name="bgt7">7. Learn How to Gamble Efficiently Online</string>
+    <string name="bgt8">8. Understand Your Bonus Requirements</string>
+    <string name="bgt9">9. Avoid shady locations.</string>
+    <string name="bgt10">10. Drinking almost always results in a loss.</string>
+
+
+    <string name="bg1">Knowing the odds of a game is important, but going a step further gives you an advantage. Spend some time learning the tactics and becoming acquainted with the odds of your chosen game. In no time, you will be rewarded with a growing account balance.</string>
+    <string name="bg2">Do you know how to make money at the casino, other from winning large at games?If you are a frequent gambler who places significant bets, you may be eligible for further incentives or cash. VIP programs provide extra incentives such as rebates and loyalty presents like as electronics, bonuses, and even vacations to high rollers.</string>
+    <string name="bg3">Perform some research to determine the average size of a jackpot when it is won. That way, you can time your play perfectly to enhance your chances of a large win.</string>
+    <string name="bg4">In blackjack, a smart blackjack strategy can decrease the house edge to 0.05 percent, yet slots have a 3–6 percent house edge that a player can never overcome.Stick to games where your skill can provide you an advantage over the casino, such as roulette, where you can use our finest roulette strategy guide.</string>
+    <string name="bg5">Playing wisely is the best method to make money at a casino. If you are on a $50 budget, don not play $10 slot spins because you will run out of money before you have even begun. Instead, play $1 spins to stretch out your gaming sessions and make them more interesting. Playing $1 spins gives you 50 chances to win cash, whilst playing $10 spins gives you only 5 chances to win money.</string>
+    <string name="bg6">Random number generators (RNGs) are used by online casinos and their software to ensure that every card dealt and every spin of the reels is fully determined by chance. Don not become superstitious because you can not change the outcome of a game. Simply sit back and take advantage of the cash-grabbing possibilities as they arise.</string>
+    <string name="bg7">To have a better chance of winning when gambling online, you must be attentive.Taking regular breaks is one approach to improve your focus. You wont be able to concentrate if you are weary or playing the same game again and over. When gambling online, you might also consider setting a time limit for yourself.</string>
+    <string name="bg8">The majority of players do not read the bonus terms and conditions.You really should. You will know exactly how much you have to wager before you can pay out. The free money provided by online casino bonuses is what distinguishes online gambling from traditional gambling. So, shop around for the best deals.</string>
+    <string name="bg9">Make certain that you are always playing at legitimate, reputable casino sites. Winning large in a casino is only fun if you can get your hands on the cash. That is why you should never play at a casino that has been banned. Check out our list of real money casinos for guaranteed security.</string>
+    <string name="bg10">Although it may appear obvious, alcohol and gambling do not mix well. Having a drink before or during your game at any casino may hamper your decision-making abilities, and you may end up spending money you should not. Do not drink and gamble.</string>
+
+
+    <string name="sbt1">The first thing oddsmakers do when they post a betting line for a game is identify which team should be the favorite and which should be the underdog.The favorite is predicted to win the game and will have a minus sign next to its odds, whilst the underdog is likely to lose and will have a plus sign next to its odds. If the game is a toss-up, the book will open with "pick" or "pick'em."</string>
+    <string name="sbt2">There are two primary methods for betting on a favorite or an underdog. The first is a bet on the margin of victory, known as the point spread.
+Assume the Patriots are 7 point favorites over the Jets. They be listed at  7. If you bet on the Patriots, they must win by 8 points or more in order for you to win your wager. If the Patriots win by 8 points or more, you cover, and if the Patriots win by exactly 7 points, you push, which means you get your money back.</string>
+    <string name="sbt4">Oddsmakers will set a total number of points scored in a game by both teams combined, as well as a favorite and underdog line. This is known as the total or over/under.
+Bettors can then place bets on whether the game will finish Over or Under the total.</string>
+    <string name="sbt3">The moneyline is the second option for betting on a favorite or an underdog. The payoff is determined purely by which team wins the game and is calculated using American odds.
+Favorites are once again designated with a "negative," such as -150, -200, or -500. If a favorite is -200, it indicates you must risk $200 in order to gain $100. If the favorite wins, you receive $100; if the favorite loses, you lose $200.
+Because favorites are expected to win, betting on them carries a higher level of risk.</string>
+    <string name="sbt5">Finally, you have the last decision on how much to bet on a game, but a decent rule of thumb is to risk no more than you can afford to lose. Sports betting is a long-distance race, not a sprint. There will be days when everything goes right and days when everything goes wrong. As a result, we advocate for a flat-betting strategy.
+This entails betting the same amount on each game and risking only 1% to 5% of your bankroll per play (the bankroll is the starting amount you have at your disposal to bet with). For example, if you have a $100 bankroll, you should risk no more than $5 per game.</string>
+
+    <string name="tp1">Begin with the Best Sports Betting Site (click)</string>
+    <string name="tp01">Let us start with the most crucial question: where should you bet on sports in 2022? BetUS and MyBookie appear to be the best options right now. Last year, they were also at the top of the online sports betting market. In fact, not much has changed in the upper levels of online gaming in 2022.</string>
+    <string name="tp2">Recognizing Value (click)</string>
+    <string name="tp02">When it comes to betting, what really is value? It is straightforward. A bet has value if the odds on an outcome pay out more than they should. A valuable bet does not imply a risk-free recipe for success. Finding (and comprehending) profitable bets is simply one aspect of the task!There are a few additional things to remember, some of which we will go over later. For the time being, we will leave you with our comprehensive guide to recognizing value in sports betting. That guide is a must-read if you are not familiar with things like EV sports bets, exploiting parlays, and teasers</string>
+    <string name="tp3">Having an Effective Betting Strategy (click)</string>
+    <string name="tp03">Finally, let us discuss strategy. End of discussion! You need a strategy! Even if you are just a casual bettor, having a strategy to assist you is a good bonus. However, it is not required. However, if you are currently involved in sports betting and want to make long-term earnings, you must have a suitable sports betting plan!</string>
+    <string name="tp4">Examine a team is in record against the spread.(click)</string>
+    <string name="tp04">ATS, which stands for against the spread, is a popular stat you will see a lot.
+It is incredibly useful to understand how teams perform not only in the win/loss column, but also against the point spread set by casinos and sportsbooks. Consider the point spread as a supplemental struggle for teams when it comes to gambling.</string>
+    <string name="tp5">Follow Winning Streaks (click)</string>
+    <string name="tp05">In sports, team and individual performance can be extremely volatile. Some players are in the zone and can not miss a shot, while others are as cold as ice. You may profit from hot and cold streaks in your betting, and if you can see them faster than the oddsmakers, you will have a significant advantage.</string>
+
+
+    <string name="close_button">close_button</string>
+    <string name="history">Publications about statistical models for football predictions began in the 1990s, but the first model was proposed much earlier by Moroney, who published his first statistical analysis of soccer match results in 1956. According to his analysis, both the Poisson distribution and the negative binomial distribution provided an adequate fit to football game results. Reep and Benjamin, successfully used negative binomial distribution to examine the series of ball passing between players during football matches in 1968. They modified this strategy in 1971, and Hill demonstrated in 1974 that soccer game outcomes can be predicted and are not only determined by chance.</string>
+    <string name="history_of_football_betting">HISTORY OF FOOTBALL BETTING</string>
+    <string name="history_title" />
+<string name="history_content"/>
+    <string name="history1">Michael Maher created the first model for forecasting the outcomes of football matches between teams of varying ability levels in 1982. The goals scored by the opponents during the game are drawn from the Poisson distribution, according to his hypothesis. The model parameters are established by the differential in offensive and defensive skills, which is adjusted for home field advantage. In a 1992 publication, Caurneya and Carron discussed the methodologies for modeling the home field advantage factor. Knorr-Held investigated the time-dependence of team strengths in 1999. He rated football teams using recursive Bayesian estimate, which was more realistic than soccer prediction based on conventional average data.</string>
+    <string name="back_button">back_button</string>
+    <string name="close_dialog" />
+    <string name="clickable_text"></string>
+
+</resources>

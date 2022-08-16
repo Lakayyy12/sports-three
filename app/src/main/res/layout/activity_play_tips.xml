@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.application.footballbetting.BetGuide"
+    android:layout_centerInParent="true"
+    android:background="@drawable/bgg"
+    tools:ignore="MissingDefaultResource">
+
+    <ImageView
+        android:id="@+id/cl2"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@drawable/ic_baseline_close_24"
+        android:layout_gravity="right"
+        android:backgroundTint="@color/white"
+        android:layout_margin="15dp"
+        android:contentDescription="@string/close_button"/>
+
+    <ImageView
+        android:id="@+id/img2"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_margin="5dp"
+        android:adjustViewBounds="true"
+        android:background="@drawable/customborder3"
+        android:src="@drawable/bannen2"
+        android:scaleType="fitXY"
+        android:outlineProvider="background"
+        app:shapeAppearanceOverlay="@style/roundimageview" />
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_margin="20dp"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/content"
+            android:textColor="@color/white"
+            android:layout_marginBottom="20dp"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:lineSpacingMultiplier="1.2"
+            android:text="@string/sbt1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </androidx.core.widget.NestedScrollView>
+
+</LinearLayout>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bgg"
+    tools:context="com.application.footballbetting.HomeAct">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/navbar"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="150dp"
+        android:background="@drawable/customborder3"
+        android:src="@drawable/navar1"
+        android:scaleType="fitXY"/>
+
+    <Button
+        android:id="@+id/homeButton"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        app:backgroundTint="#63FB03"
+        android:background="@drawable/roundedbutton"
+        android:textStyle="bold"
+        android:text="PROCEED" />
+
+    <Button
+        android:id="@+id/guideButton"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        app:backgroundTint="#63FB03"
+        android:background="@drawable/roundedbutton"
+        android:textStyle="bold"
+        android:text="GUIDE" />
+
+    <Button
+        android:id="@+id/guideButton2"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        app:backgroundTint="#63FB03"
+        android:background="@drawable/roundedbutton"
+        android:textStyle="bold"
+        android:text="HISTORY" />
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>
